@@ -1,6 +1,22 @@
-# FunctionsGPT
+# FunctionsGPT: Powering Extensibility in OpenAI
 
-FunctionsGPT is a Python script allowing to create extensions for OpeanAI which are then called as functions.
+## Overview
+
+FunctionsGPT is a dynamic Python script tailored to extend the capabilities of OpenAI. It empowers developers to create modular extensions, which can be invoked as distinct functions. By adhering to a standardized structure and interface, these extensions ensure seamless integration and execution, enhancing OpenAI's versatility without compromising its core functionalities.
+
+## Why FunctionsGPT?
+
+- Plug-and-Play Functionality: With the aim to keep the main application stable, the extensions are designed to be easily plugged in and played without any disruption.
+- Standardized Structure: By adhering to the ExtensionInterface, developers can ensure uniformity and predictability in their extensions.
+- Simplicity at its Core: From utilizing an extension to creating a new one, the processes are simplified, ensuring even newcomers to the platform can get started quickly.
+- Open Ecosystem: Being open-source, FunctionsGPT thrives on community contributions. Developers can add, modify, or improve extensions, fostering a continuously evolving ecosystem.
+
+## Core Features
+
+- Directory Structure: Ensures every extension is organized in a standardized manner, enhancing clarity and maintainability.
+- Key Elements of an Extension: From providing a crisp description to ensuring the right resources are available, FunctionsGPT ensures all extensions are comprehensive.
+- Extension Interface: Maintaining uniformity across extensions, the interface mandates essential methods ensuring consistency in extensions' behavior.
+- Ease of Usage: Just a few steps to utilize any extension – Import, Initialize, Execute, and optionally Shutdown.
 
 ## How To Build An Extensions
 
